@@ -1,4 +1,4 @@
-# I401-ESPMQTT
+# I401-ESPMQTT (Bastián gutiérrez - Jean Guerra)
 
 ## Descripción
 
