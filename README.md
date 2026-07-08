@@ -49,6 +49,7 @@ I401-ESPMQTT/
 ## Autor
 
 Bastián Gutiérrez
+Jean Guerra
 
 Ingeniería en Electrónica y Sistemas Inteligentes  
 INACAP
